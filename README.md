@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-ashraf-elshennawy&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-ashraf-elshennawy" /> </p>
 
-- A skilled DevOps Engineer **With a bachelor degree in information technology and an ITI (Information Technology Institute) DevOps track graduated, seeking an opportunity where I can develop my skills and gain experience in the field of DevOps in a well-establish Company where my skills and knowledge Can be utilized and developed and can add value to the company.**
+- A skilled DevOps Engineer **With a bachelor degree in Computer Scince  from Faculty of Computers science and information Technology at Ain Shams University and an ITI (Information Technology Institute) DevOps track graduated, seeking an opportunity where I can develop my skills and gain experience in the field of DevOps in a well-establish Company where my skills and knowledge Can be utilized and developed and can add value to the company.**
 
 ![ebf7fc2e-150b-40b3-b536-d5e2ad09c731](https://github.com/Hassan-Ashraf-Elshennawy/Hassan-Ashraf-Elshennawy/assets/111524157/4c6942b0-be06-4c70-8884-bc19aeb82f27)
 
