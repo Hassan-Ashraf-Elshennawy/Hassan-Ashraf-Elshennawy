@@ -5,6 +5,15 @@
 
 - A skilled DevOps Engineer **With a bachelor degree in information technology and an ITI (Information Technology Institute) DevOps track graduated, seeking an opportunity where I can develop my skills and gain experience in the field of DevOps in a well-establish Company where my skills and knowledge Can be utilized and developed and can add value to the company.**
 
+![ebf7fc2e-150b-40b3-b536-d5e2ad09c731](https://github.com/Hassan-Ashraf-Elshennawy/Hassan-Ashraf-Elshennawy/assets/111524157/4c6942b0-be06-4c70-8884-bc19aeb82f27)
+
+
+
+<h3 align="left">Professional Experience:</h3>
+Oracle Application Developer at USIS for 5 months
+
+Java Developer at Lutix for 6 months                                                   
+operation manager at InTrip Travel for 9 months
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan-elshennawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-elshennawy/" height="30" width="40" /></a>
