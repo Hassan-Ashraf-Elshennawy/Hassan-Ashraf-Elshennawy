@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-ashraf-elshennawy&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-ashraf-elshennawy" /> </p>
 
--
-- A skilled DevOps Engineer  holding a bachelor's degree in Computer Science and completing the prestigious ITI DevOps track.
+A skilled DevOps Engineer holding a bachelor's degree in Computer Science and completing the prestigious ITI DevOps track.
 My background is diverse, encompassing a wide range of expertise in different fields such as development, database management, DevOps,
 Cloud Computing and Business
 seeking an opportunity to enhance my skills further and gain valuable experience in these fields. I am particularly interested in joining
-a Rawaj company where I can utilize and develop my skills and knowledge, ultimately adding value to the organization..
+a Rawaj company where I can utilize and develop my skills and knowledge, ultimately adding value to the organization.
 
 ![ebf7fc2e-150b-40b3-b536-d5e2ad09c731](https://github.com/Hassan-Ashraf-Elshennawy/Hassan-Ashraf-Elshennawy/assets/111524157/4c6942b0-be06-4c70-8884-bc19aeb82f27)
 
