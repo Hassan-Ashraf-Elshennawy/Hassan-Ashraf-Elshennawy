@@ -14,10 +14,10 @@ a Rawaj company where I can utilize and develop my skills and knowledge, ultimat
 
 
 <h3 align="left">Professional Experience:</h3>
-Oracle Application Developer at USIS for 5 months
+Oracle Application Developer at USIS
 
-Java Developer at Lutix for 6 months                                                   
-operation manager at InTrip Travel for 9 months
+Java Developer at Lutix                                                   
+operation manager at InTrip Travel
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-elshennawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-elshennawy/" height="30" width="40" /></a>
